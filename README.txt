@@ -1,4 +1,5 @@
 pojeni se dodaju strelicama levo i desno.
 promena strana [R]
-novi meè [N]
+novi meÄ [N]
 izmena
+izmena 2
